@@ -2,7 +2,7 @@
   "name": "foldericons-zelda",
   "main": "./lib/foldericons-zelda",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A link to the past themed folder icons",
   "activationCommands": {
     "atom-workspace": "foldericons-zelda:toggle"
   },
