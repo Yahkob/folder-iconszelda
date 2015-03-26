@@ -6,36 +6,10 @@
   "activationCommands": {
     "atom-workspace": "foldericons-zelda:toggle"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Yahkob/folder-iconszelda.git"
-  },
+  "repository": "https://github.com/Yahkob/folder-iconszelda.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {},
-  "readme": "# foldericons-zelda package\n\nYou should treat your code like treasure. Why not make your folders treasure boxes to contain the awesomeness that is your code. Folder icons inspired by The Legend of Zelda: A Link to the Past.\n\n![alt tag](https://s3.amazonaws.com/jharclerode/zeldafileicons.png)\n\n",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/Yahkob/folder-iconszelda/issues"
-  },
-  "homepage": "https://github.com/Yahkob/folder-iconszelda",
-  "_id": "foldericons-zelda@0.5.0",
-  "_shasum": "426f00f342cefc7a3e8757f6014b6e451807c294",
-  "_resolved": "file:../d-115226-9120-jeew6f/package.tgz",
-  "_from": "../d-115226-9120-jeew6f/package.tgz",
-  "_atomModuleCache": {
-    "version": 1,
-    "dependencies": [],
-    "extensions": {
-      ".coffee": [
-        "lib/foldericons-zelda.coffee"
-      ],
-      ".json": [
-        "package.json"
-      ]
-    },
-    "folders": []
-  }
+  "dependencies": {}
 }
