@@ -1,3 +1,3 @@
 # foldericons-zelda package
 
-You should treat your code like treasure. Why not contain make your folders treasure boxes to contain the awesomeness that is your code. Folder icons inspired by The Legend of Zelda: A Link to the Past
+You should treat your code like treasure. Why not make your folders treasure boxes to contain the awesomeness that is your code. Folder icons inspired by The Legend of Zelda: A Link to the Past
