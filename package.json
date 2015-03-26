@@ -2,7 +2,7 @@
   "name": "foldericons-zelda",
   "main": "./lib/foldericons-zelda",
   "version": "0.2.0",
-  "description": "A link to the past themed folder icons",
+  "description": "Zelda A Link to the Past themed folder icons.",
   "activationCommands": {
     "atom-workspace": "foldericons-zelda:toggle"
   },
