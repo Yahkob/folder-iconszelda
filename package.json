@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "foldericons-zelda:toggle"
   },
-  "repository": "https://github.com/atom/foldericons-zelda",
+  "repository": "https://github.com/Yahkob/folder-iconszelda.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
