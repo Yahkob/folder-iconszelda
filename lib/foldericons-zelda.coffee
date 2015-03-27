@@ -2,4 +2,3 @@
 
 module.exports =
   activate: (state) ->
-    @modalPanel.show()
