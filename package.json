@@ -3,9 +3,6 @@
   "main": "./lib/foldericons-zelda",
   "version": "0.8.0",
   "description": "Zelda A Link to the Past themed folder icons.",
-  "activationCommands": {
-    "atom-workspace": "foldericons-zelda:toggle"
-  },
   "repository": "https://github.com/Yahkob/folder-iconszelda.git",
   "license": "MIT",
   "engines": {
