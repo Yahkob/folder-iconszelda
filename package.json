@@ -1,5 +1,5 @@
 {
-  "name": "folder-treasure",
+  "name": "treasure-box-folder",
   "main": "./lib/folder-treasure-box",
   "version": "1.3.4",
   "description": "A link to the past inspired treasure box folders",
