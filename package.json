@@ -1,10 +1,10 @@
 {
-  "name": "foldericons-zelda",
+  "name": "treasure-box-folders",
   "main": "./lib/foldericons-zelda",
   "version": "1.3.0",
-  "description": "Zelda A Link to the Past themed folder icons.",
-  "repository": "https://github.com/Yahkob/folder-iconszelda.git",
+  "description": "A link to the past inspired treasure box folders",
   "license": "MIT",
+  "repository": "https://github.com/Yahkob/folder-treasure-boxes.git",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
